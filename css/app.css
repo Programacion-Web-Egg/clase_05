@@ -1,0 +1,19 @@
+:root{
+
+}
+*{
+ margin: 0;
+ padding: 0;   
+}
+
+html{
+    font-size: 16px;
+}
+body{
+    font-size: 1rem;
+    background: linear-gradient(90deg, rgb(81, 81, 204) 10%, rgb(223, 43, 214) 60%, rgb(155, 7, 93) 90%);
+    color: whitesmoke;
+    font-weight: 400;
+}
+
+
