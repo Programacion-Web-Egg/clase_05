@@ -31,3 +31,20 @@ a{
     background-color: yellow;
     padding: 0 5px;
 }
+ /**Borrar*******************/
+ img{
+    width: 200px;
+    width: 200px;
+    float: right;
+    border-radius: 50%;
+
+  }
+  .contenedor{
+    position: relative ;
+    height: 0200px;
+    border: 1px solid yellow;
+  }
+  p{
+    position: absolute;
+    z-index: -1;
+  }
